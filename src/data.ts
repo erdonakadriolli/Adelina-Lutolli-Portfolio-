@@ -191,14 +191,14 @@ export const PORTFOLIO_PROJECTS: PortfolioItemType[] = [
   },
   {
     id: "bird-emblem",
-    title: "BIRD Aerodynamic Emblem",
+    title: "Layered Realism: Typography Exploration",
     category: "Logo Design",
     image: "/Logo 7/Screenshot 2026-06-08 162332.png",
     pdfUrl: "/Logo 7/BIRD.pdf",
     images: ["/Logo 7/Screenshot 2026-06-08 162332.png"],
     year: "2026",
     client: "Avis Dynamic",
-    description: "The goal of this project was to experiment with typography as a physical environment rather than just flat text. By carefully masking and layering the branches and feathers of the bird over and under the letters "B-I-R-D," I created an illusion of interaction. The muted tones of the typography were intentionally chosen to let the vibrant blue and warm rust tones of the bird stand out as the central focus.",
+    description: "The goal of this project was to experiment with typography as a physical environment rather than just flat text. By carefully masking and layering the branches and feathers of the bird over and under the letters 'B-I-R-D,' I created an illusion of interaction. The muted tones of the typography were intentionally chosen to let the vibrant blue and warm rust tones of the bird stand out as the central focus.",
     tags: ["Logo Design", "Vector Curves", "Dynamic Symbols", "Sleek Outlines"],
     colors: [
       { name: "Nordic Blue", hex: "#2B4C7E" },
@@ -239,7 +239,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItemType[] = [
   },
   {
     id: "mavi-identity",
-    title: "MAVI Stylebook Guideline",
+    title: "MAVI (brand redesign)",
     category: "Branding",
     image: "/Logo 3/Screenshot 2026-06-08 162421.png",
     pdfUrl: "/Logo 3/mavi.pdf",
@@ -267,7 +267,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItemType[] = [
   },
   {
     id: "logo-diplom",
-    title: "LOGOdiplom Tectigon Project",
+    title: "Institutional Identity Design/Logo",
     category: "Logo Design",
     image: "/Logo 1/Screenshot 2026-06-08 163042.png",
     pdfUrl: "/Logo 1/LOGOdiplom.pdf",
@@ -294,7 +294,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItemType[] = [
   },
   {
     id: "negative-space-blueprint",
-    title: "Negative Space Layout",
+    title: "Chili / negative space concept",
     category: "Logo Design",
     image: "/Logo 4/Screenshot 2026-06-08 162724.png",
     pdfUrl: "/Logo 4/negative logo.pdf",
@@ -321,7 +321,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItemType[] = [
   },
   {
     id: "glass-water-art",
-    title: "Glass of Water Digital Spec",
+    title: "Water-glass portrait",
     category: "Social Media Design",
     image: "/Logo 5/Screenshot 2026-06-08 164109.png",
     pdfUrl: "/Logo 5/glaas water pic.pdf",
