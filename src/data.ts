@@ -222,7 +222,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItemType[] = [
     images: ["/Logo 2/Screenshot 2026-06-08 162950.png"],
     year: "2026",
     client: "Think Smart Labs",
-    description: "Identitet vizual konceptual mbi komunikimin inteligjent dhe dyanshmërinë e mendimit. Përdor hapësirën negative për të krijuar një lidhje të menjëhershme me shikuesin.\n\nA conceptual visual identity about smart communication and the duality of thinking. Uses micro-grids and negative space relationships to create an instant bond with the viewer.",
+    description: "A typographic logo concept that uses negative space and chess imagery to symbolize intelligence, strategy, and critical thinking. The design combines readability with hidden visual elements to create a memorable and meaningful identity.",
     tags: ["Branding", "Corporate Identity", "Visual Thinking", "Grid Mastery"],
     colors: [
       { name: "Bacon Pink", hex: "#FF6584" },
