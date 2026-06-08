@@ -304,7 +304,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItemType[] = [
     ],
     year: "2025",
     client: "Contrast Lab",
-    description: "his work reinterprets Sunny Hill Festival through experimental typography, using type as a visual medium to capture the festival’s atmosphere, movement, and cultural energy without relying on imagery. A negative space logo concept that incorporates a hidden chili pepper within the typography to represent flavor, heat, and bold brand personality.",
+    description: "This work reinterprets Sunny Hill Festival through experimental typography, using type as a visual medium to capture the festival’s atmosphere, movement, and cultural energy without relying on imagery. A negative space logo concept that incorporates a hidden chili pepper within the typography to represent flavor, heat, and bold brand personality.",
     tags: ["Logo Design", "Negative Space", "Intelligent Forms", "Contrast Art"],
     colors: [
       { name: "Stark Black", hex: "#000000" },
