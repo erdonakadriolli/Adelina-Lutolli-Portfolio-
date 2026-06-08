@@ -1,0 +1,8 @@
+{
+  "name": "Grapher Studio",
+  "description": "An interactive digital portfolio and generative math-art sandbox showcasing experimental typography, high-end branding layouts, and geometric graphics for Dona Kadriolli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

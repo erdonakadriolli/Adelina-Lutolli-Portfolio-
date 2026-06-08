@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@100;300;400;500;700&family=Inter:wght@300;400;500;600&family=Dancing+Script:wght@700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --font-serif: "Cormorant Garamond", serif;
+  --font-script: "Dancing Script", cursive;
+
+  --color-swiss-red: #E63946;
+  --color-design-dark: #121212;
+  --color-design-darker: #0E0E0E;
+  --color-design-light: #FFFFFF;
+  --color-design-cream: #F7F7F7;
+  --color-design-gray: #707077;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-design-cream);
+    color: var(--color-design-dark);
+    font-family: var(--font-sans);
+    overflow-x: hidden;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-design-cream);
+}
+::-webkit-scrollbar-thumb {
+  background: #C8C8CC;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-design-dark);
+}
