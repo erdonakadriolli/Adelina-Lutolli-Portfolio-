@@ -215,7 +215,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItemType[] = [
   },
   {
     id: "think-2-concept",
-    title: "THINK-2 Branding System",
+    title: "Negative Space: THINK",
     category: "Branding",
     image: "/Logo 2/Screenshot 2026-06-08 162950.png",
     pdfUrl: "/Logo 2/THINK-2.pdf",
