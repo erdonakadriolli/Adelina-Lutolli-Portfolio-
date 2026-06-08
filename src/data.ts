@@ -198,7 +198,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItemType[] = [
     images: ["/Logo 7/Screenshot 2026-06-08 162332.png"],
     year: "2026",
     client: "Avis Dynamic",
-    description: "Një emblemë gjeometrike e pastër që tregon fluturimin e një shpendi, e vizatuar me saktësi absolute në lakore vektoriale. Ideale për platforma digjitale moderne dhe aplikacione me rezolucion të lartë.\n\nAn aerodynamic emblem depicting a bird in clean geometric flight, drawn with absolute precision in vector curves. Great for modern tech startups and vector application ecosystems.",
+    description: "The goal of this project was to experiment with typography as a physical environment rather than just flat text. By carefully masking and layering the branches and feathers of the bird over and under the letters "B-I-R-D," I created an illusion of interaction. The muted tones of the typography were intentionally chosen to let the vibrant blue and warm rust tones of the bird stand out as the central focus.",
     tags: ["Logo Design", "Vector Curves", "Dynamic Symbols", "Sleek Outlines"],
     colors: [
       { name: "Nordic Blue", hex: "#2B4C7E" },
@@ -277,7 +277,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItemType[] = [
     ],
     year: "2025",
     client: "Tectigon Academy Certification",
-    description: "Projekti im i diplomimit në Akademinë Tectigon. Ky punim përfaqëson kulminimin e trajnimit profesional në dizajnimin e logove me saktësi absolute pikseli dhe veti të plota marketingu.\n\nMy graduation project designed for the Tectigon Academy Graphic Design training track. It represents the height of modern logo design precision and effective marketability.",
+    description: "The logo merges traditional academic elements with a modern digital component. The graduation cap and diploma symbolize educational achievement, while the play button represents online learning, video-based education, and continuous personal development. Together, these elements create a visual identity that reflects the evolving nature of education in the digital age.",
     tags: ["Logo Design", "Graduation Piece", "Portfolio Seal", "Tectigon Academy"],
     colors: [
       { name: "Tectigon Blue", hex: "#4B7CB8" },
@@ -304,7 +304,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItemType[] = [
     ],
     year: "2025",
     client: "Contrast Lab",
-    description: "Një studim teknik mbi raportin midis formës dhe zbrazëtisë në artin digjital. Kjo logo zbulon dy ikona të veçanta përmes përdorimit inteligjent të hijeve dhe dritës.\n\nA technical study on form and void in modern digital art. This logo design unmasks two distinct icons in a single silhouette through the intelligent use of overlapping negative space elements.",
+    description: "his work reinterprets Sunny Hill Festival through experimental typography, using type as a visual medium to capture the festival’s atmosphere, movement, and cultural energy without relying on imagery. A negative space logo concept that incorporates a hidden chili pepper within the typography to represent flavor, heat, and bold brand personality.",
     tags: ["Logo Design", "Negative Space", "Intelligent Forms", "Contrast Art"],
     colors: [
       { name: "Stark Black", hex: "#000000" },
@@ -328,7 +328,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItemType[] = [
     images: ["/Logo 5/Screenshot 2026-06-08 164109.png"],
     year: "2026",
     client: "Personal Composition Series",
-    description: "Një ilustrim digjital minimalist që trajton përthyerjen e dritës, rrezet prismatike dhe transparencën e ujit. Krijuar për fushata estetike dhe përmbajtje unike në Instagram.\n\nA minimalist digital media illustration analyzing light refraction, prismatic shadows, and water transparency. Created specifically for aesthetic editorial layouts and modern engaging social campaigns.",
+    description: "This composition explores transparency and distortion through water and glass effects layered over a portrait. The aim was to create a sense of emotion and fragility, where the subject emerges through fragmented reflections and liquid movement.",
     tags: ["Social Media Design", "Digital Portrait", "Refraction", "Glassware Art"],
     colors: [
       { name: "Water Tint Blue", hex: "#A9D5E4" },
